@@ -1,6 +1,6 @@
 <h1 align=center> Hi, I'm Sebastián.</h1>
 
-<p align=center> <sub> <em> (they / them) </em> </sub> </p>
+<!-- <p align=center> <sub> <em> (they / them) </em> </sub> </p> -->
 
 
 <p align="center">
