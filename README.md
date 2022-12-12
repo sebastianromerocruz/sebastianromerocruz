@@ -3,7 +3,7 @@
 <p align=center> <sup> <em> (they / them) </em> </sup> </p>
 
 <p align=center>Computer science professor.</p>
-<p align=center>I put French history and anime references in my lecture notes.</p>
+<p align=center>I put music, French history, and anime references in my lecture notes.</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Nacido-CDMX-%23006341">
