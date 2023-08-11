@@ -10,5 +10,5 @@
     <img src="https://img.shields.io/badge/Location-BKLN-%23FF6600">
     <img src="https://img.shields.io/badge/Aime-FRA-002654">
     <img src="https://img.shields.io/badge/%E5%8B%89%E5%BC%B7%E4%B8%AD-JPN-BC002D">
-    <img src="https://img.shields.io/badge/Studuji-CZE-FFFFFF">
+    <img src="https://img.shields.io/badge/O%C4%8Dit_se-CZE-FFFFFF">
 </p>
