@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/U%C4%8D%C3%ADm_se-CZE-FFFFFF"> -->
 </p>
 
-<div align="center" style="font-family:courier; font-style:italic">;;;;;;;;;;;;;;;;;;;;;;;</div>
+<!-- <div align="center" style="font-family:courier; font-style:italic">;;;;;;;;;;;;;;;;;;;;;;;</div>
 <div align="center" style="font-family:courier; font-style:italic">;; E8 AB B8 E8 A1 8C ;;</div>
 <div align="center" style="font-family:courier; font-style:italic">;; E7 84 A1 E5 B8 B8 ;;</div>
-<div align="center" style="font-family:courier; font-style:italic">;;;;;;;;;;;;;;;;;;;;;;;</div>
+<div align="center" style="font-family:courier; font-style:italic">;;;;;;;;;;;;;;;;;;;;;;;</div> -->
