@@ -2,7 +2,7 @@
   <img src="header.svg" alt="Sebastián Romero Cruz" />
 </p>
 
----
+<!-- ---
 
 I teach computer science at [NYU Tandon](https://engineering.nyu.edu). Most of my courses live somewhere between programming fundamentals and game engines—Python, C++, data structures, shaders. I'm a little obsessed with learning things.
 
@@ -39,4 +39,4 @@ I teach computer science at [NYU Tandon](https://engineering.nyu.edu). Most of m
 ;;;;;;;;;;;;;;;;;;;;;;
 ```
 
-</sup></sub>
+</sup></sub> -->
